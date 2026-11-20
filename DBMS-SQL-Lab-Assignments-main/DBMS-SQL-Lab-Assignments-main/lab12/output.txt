@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 12
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 12
 Assignment 12: Using a Subquery
 (Output of assignment12.sql)
 
