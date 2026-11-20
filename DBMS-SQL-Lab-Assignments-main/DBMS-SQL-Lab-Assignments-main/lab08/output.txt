@@ -1,4 +1,4 @@
-Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024388 | Assignment 8
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 8
 Assignment 8: Grouping Rows and Using HAVING
 (Output of assignment8.sql)
 
