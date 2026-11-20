@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 2
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024388| Assignment 2
 Assignment 2: Updating and Deleting Rows
 (Output of assignment2.sql)
 
