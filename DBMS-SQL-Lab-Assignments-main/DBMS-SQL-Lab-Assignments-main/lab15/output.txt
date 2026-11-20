@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 15
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 15
 Assignment 15: Indexes and Adding a Row
 (Output of assignment15.sql)
 
