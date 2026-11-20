@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 14
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 14
 Assignment 14: Creating and Using a View
 (Output of assignment14.sql)
 
