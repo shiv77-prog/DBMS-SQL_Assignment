@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 6
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024388 | Assignment 6
 Assignment 6: Sorting Rows and Removing Repeats
 (Output of assignment6.sql)
 
