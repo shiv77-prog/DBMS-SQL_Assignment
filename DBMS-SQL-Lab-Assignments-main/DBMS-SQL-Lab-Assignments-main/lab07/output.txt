@@ -1,4 +1,4 @@
-Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024388 | Assignment 7
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 7
 Assignment 7: Using Aggregate Functions
 (Output of assignment7.sql)
 
