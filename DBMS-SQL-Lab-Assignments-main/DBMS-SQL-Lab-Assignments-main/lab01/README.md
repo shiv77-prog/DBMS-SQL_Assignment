@@ -1,8 +1,8 @@
 # Lab 1: Creating a Table and Adding Rows
 
-Name: Mohd Zubair\
-Roll No: 2410303291\
-Student ID: BCS2024360\
+Name: Shivprtap Rathore\
+Roll No: 2410303288\
+Student ID: BCS2024460\
 Course: BCS552 - DBMS & SQL Lab\
 University: Invertis University, Bareilly (B.Tech CSE)
 
