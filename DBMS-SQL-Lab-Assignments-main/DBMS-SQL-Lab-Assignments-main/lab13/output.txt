@@ -1,4 +1,4 @@
-Name: Nitin Kumar | Roll No: 2410303313 | Student ID: BCS2024364 | Assignment 13
+Name: Shivpratap rathore | Roll No: 2410303460 | Student ID: BCS2024288 | Assignment 13
 Assignment 13: UNION and INTERSECT
 (Output of assignment13.sql)
 
