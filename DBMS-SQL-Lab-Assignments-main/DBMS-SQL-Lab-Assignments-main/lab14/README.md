@@ -1,8 +1,8 @@
 # Lab 14: Creating and Using a View
 
-**Name:** Nitin Kumar  
-**Roll No:** 2410303313  
-**Student ID:** BCS2024364  
+**Name:** Shivpreatap Rathore 
+**Roll No:** 2410303460
+**Student ID:** BCS2024288 
 **Course:** BCS552 - DBMS & SQL Lab  
 **University:** Invertis University, Bareilly (B.Tech CSE)
 
